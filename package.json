@@ -1,0 +1,14 @@
+{
+  "name": "AlexaStarterKit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "setup": "node-lambda setup",
+    "run": "node-lambda run",
+    "deploy": "node-lambda deploy"
+  },
+  "devDependencies": {
+    "node-lambda": "^0.8.11"
+  }
+}
